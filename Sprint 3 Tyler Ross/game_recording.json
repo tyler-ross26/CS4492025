@@ -1,0 +1,247 @@
+{
+    "board_size": 7,
+    "board_type": "English",
+    "initial_board": [
+        [
+            null,
+            null,
+            1,
+            1,
+            1,
+            null,
+            null
+        ],
+        [
+            null,
+            null,
+            1,
+            1,
+            1,
+            null,
+            null
+        ],
+        [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        [
+            1,
+            1,
+            1,
+            0,
+            1,
+            1,
+            1
+        ],
+        [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        [
+            null,
+            null,
+            1,
+            1,
+            1,
+            null,
+            null
+        ],
+        [
+            null,
+            null,
+            1,
+            1,
+            1,
+            null,
+            null
+        ]
+    ],
+    "events": [
+        {
+            "type": "move",
+            "start": [
+                3,
+                1
+            ],
+            "end": [
+                3,
+                3
+            ]
+        },
+        {
+            "type": "move",
+            "start": [
+                3,
+                4
+            ],
+            "end": [
+                3,
+                2
+            ]
+        },
+        {
+            "type": "move",
+            "start": [
+                5,
+                3
+            ],
+            "end": [
+                3,
+                3
+            ]
+        },
+        {
+            "type": "move",
+            "start": [
+                3,
+                2
+            ],
+            "end": [
+                3,
+                4
+            ]
+        },
+        {
+            "type": "move",
+            "start": [
+                3,
+                5
+            ],
+            "end": [
+                3,
+                3
+            ]
+        },
+        {
+            "type": "move",
+            "start": [
+                2,
+                3
+            ],
+            "end": [
+                4,
+                3
+            ]
+        },
+        {
+            "type": "move",
+            "start": [
+                5,
+                4
+            ],
+            "end": [
+                3,
+                2
+            ]
+        },
+        {
+            "type": "move",
+            "start": [
+                4,
+                1
+            ],
+            "end": [
+                2,
+                3
+            ]
+        },
+        {
+            "type": "move",
+            "start": [
+                1,
+                4
+            ],
+            "end": [
+                3,
+                4
+            ]
+        },
+        {
+            "type": "move",
+            "start": [
+                4,
+                4
+            ],
+            "end": [
+                2,
+                4
+            ]
+        },
+        {
+            "type": "move",
+            "start": [
+                3,
+                6
+            ],
+            "end": [
+                1,
+                4
+            ]
+        },
+        {
+            "type": "move",
+            "start": [
+                2,
+                3
+            ],
+            "end": [
+                2,
+                5
+            ]
+        },
+        {
+            "type": "move",
+            "start": [
+                0,
+                4
+            ],
+            "end": [
+                2,
+                4
+            ]
+        },
+        {
+            "type": "move",
+            "start": [
+                0,
+                3
+            ],
+            "end": [
+                2,
+                3
+            ]
+        },
+        {
+            "type": "move",
+            "start": [
+                5,
+                2
+            ],
+            "end": [
+                3,
+                2
+            ]
+        },
+        {
+            "type": "move",
+            "start": [
+                2,
+                2
+            ],
+            "end": [
+                4,
+                2
+            ]
+        }
+    ]
+}
